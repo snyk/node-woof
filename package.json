@@ -1,0 +1,35 @@
+{
+  "name": "runtime-goof",
+  "description": "yes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shesekino/runtime-goof"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "author": "snyk.io",
+  "license": "private",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "nock": "^10.0.0",
+    "proxyquire": "^2.1.0",
+    "sinon": "^6.1.5",
+    "sleep-promise": "^8.0.1",
+    "st": "^0.1.0",
+    "tap": "^12.0.1"
+  },
+  "dependencies": {
+    "acorn": "^5.7.1",
+    "debug": "^4.0.1",
+    "needle": "^2.2.1",
+    "semver": "^5.5.1"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}

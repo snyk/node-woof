@@ -1,9 +1,9 @@
 {
-  "name": "runtime-goof",
+  "name": "node-woof",
   "description": "yes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/snyk/runtime-goof"
+    "url": "https://github.com/snyk/node-woof"
   },
   "main": "lib/index.js",
   "directories": {

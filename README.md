@@ -1,4 +1,4 @@
-## runtime-goof
+## node-woof
 
 An intentionally vulnerable application, to test Snyk's
 Runtime Protection offering.
@@ -40,7 +40,7 @@ For example (you *must* change the id!):
 ```text
 $ snyk monitor
 
-Monitoring runtime-goof...
+Monitoring node-woof...
 
 Explore this snapshot at https://app.snyk.io/org/yall/project/4567901-2345-6789-0123-45679012345
 ```

@@ -11,6 +11,8 @@
   },
   "scripts": {
     "start": "node lib/index.js",
+    "startWithAgent": "node lib/index.js",
+    "startWithoutAgent": "node lib/index.js --without-agent",
     "lint": "eslint ."
   },
   "author": "snyk.io",
@@ -21,7 +23,8 @@
   "dependencies": {
     "@snyk/nodejs-runtime-agent": "^1.38.0",
     "debug": "^4.1.1",
-    "st": "^0.1.0"
+    "st": "^0.1.0",
+    "uuid-validate": "0.0.3"
   },
   "publishConfig": {
     "access": "restricted"

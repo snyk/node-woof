@@ -59,7 +59,7 @@ Explore this snapshot at https://app.snyk.io/org/yall/project/4567901-2345-6789-
 #### Now, you can start the app with the agent:
 
 ```text
-$ npm startWithAgent 4567901-2345-6789-0123-45678912345
+$ npm run startWithAgent 4567901-2345-6789-0123-45678912345
 ...
 
 Agent loaded successfully, your application is monitored.

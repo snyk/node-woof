@@ -1,7 +1,7 @@
 ## node-woof
 
 An intentionally vulnerable application, to test
-[Snyk's Runtime Monitoring](https://snyk.io/docs/runtime-protection/) offering.
+[Snyk's Runtime Monitoring](https://support.snyk.io/hc/en-us/articles/360003737297-Snyk-runtime-monitoring-introduction) offering.
 
 [The docs](https://snyk.io/docs/runtime-protection/)
 there explain what the tool achieves. You might want to read them before

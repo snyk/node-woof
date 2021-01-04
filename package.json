@@ -18,7 +18,7 @@
   "author": "snyk.io",
   "license": "MIT OR Apache-2.0",
   "devDependencies": {
-    "eslint": "^5.12.1"
+    "eslint": "^5.16.0"
   },
   "dependencies": {
     "@snyk/nodejs-runtime-agent": "^1.42.1",
